@@ -1,0 +1,6 @@
+@AMV_Travel_Presentation_HostAddress = http://localhost:5259
+
+GET {{AMV_Travel_Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

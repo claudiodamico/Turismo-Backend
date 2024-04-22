@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AMV Travel-Presentation</name>
+    </assembly>
+    <members>
+        <member name="M:AMV_Travel_Presentation.Controllers.CuentasController.Registrar(AMV_Travel_Domain.Dtos.CredencialesUsuario)">
+            <summary>
+            Registrar  
+            </summary>
+        </member>
+        <member name="M:AMV_Travel_Presentation.Controllers.CuentasController.Login(AMV_Travel_Domain.Dtos.CredencialesUsuario)">
+            <summary>
+            Login 
+            </summary>
+        </member>
+        <member name="M:AMV_Travel_Presentation.Controllers.ReservaController.MostrarInformacion">
+            <summary>
+            Mostrar Reservas 
+            </summary>
+        </member>
+        <member name="M:AMV_Travel_Presentation.Controllers.ReservaController.ReservarTour(AMV_Travel_Domain.Entities.Reserva)">
+            <summary>
+            Crear Reserva 
+            </summary>
+        </member>
+        <member name="M:AMV_Travel_Presentation.Controllers.ReservaController.EliminarReserva(System.Int32)">
+            <summary>
+            Eliminar Reserva por ID
+            </summary>
+        </member>
+        <member name="M:AMV_Travel_Presentation.Controllers.TourController.MostrarTours">
+            <summary>
+            Filtrar Tours 
+            </summary>
+        </member>
+        <member name="M:AMV_Travel_Presentation.Controllers.TourController.AgregarTour(AMV_Travel_Domain.Dtos.TourDto)">
+            <summary>
+            Crear Tour
+            </summary>
+        </member>
+    </members>
+</doc>
