@@ -10,6 +10,7 @@ namespace AMV_Travel_Application.Services
         List<Tour> MostrarTours();
         Tour AgregarTour(TourDto tour);
         Task<Tour> ObtenerTourPorId(int tourId);
+        Task<bool> EliminarTour(int Id);
     }
     public class TourService : ITourService
     {
@@ -39,6 +40,11 @@ namespace AMV_Travel_Application.Services
         public async Task<Tour> ObtenerTourPorId(int tourId)
         {
             return await _tourRepository.ObtenerTourPorId(tourId); 
+        }
+
+        public async Task<bool> EliminarTour(int Id)
+        {
+            return await _tourRepository.EliminarTour(Id);
         }
     }
 }

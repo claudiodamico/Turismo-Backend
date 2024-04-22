@@ -36,18 +36,17 @@ namespace AMV_Travel_AccessData.Queries
             return await _context.Reserva.FindAsync(id);
         }
 
-        public async Task EliminarReserva(int id)
+        public async Task<bool> EliminarReserva(int id)
         {
-            var reserva = await _context.Reserva.FindAsync(id);
-            if (reserva != null)
+            var reserva = await _context.Tours.FindAsync(id);
+            if (reserva == null)
             {
-                _context.Reserva.Remove(reserva);
-                await _context.SaveChangesAsync();
+                return false;
             }
-            else
-            {
-                throw new KeyNotFoundException($"No se encontró una reserva con el ID {id} para eliminar.");
-            }
+
+            _context.Tours.Remove(reserva);
+            await _context.SaveChangesAsync();
+            return true;
         }
     }
 }

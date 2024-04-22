@@ -9,6 +9,7 @@ namespace AMV_Travel_Application.Services
     {
         Task<IEnumerable<ReservaDto>> MostrarInformacion();
         Task<Reserva> CrearReserva(Reserva reserva);
+        Task<Reserva> ObtenerReservaPorId(int id);
         Task<bool> EliminarReserva(int id);
     }
     public class ReservaService : IReservaService
@@ -43,16 +44,14 @@ namespace AMV_Travel_Application.Services
             return await _reservaRepository.CrearReserva(reserva);
         }
 
-        public async Task<bool> EliminarReserva(int id)
+        public async Task<Reserva> ObtenerReservaPorId(int id)
         {
-            var reserva = await _reservaRepository.ObtenerReservaPorId(id);
-            if (reserva == null)
-            {
-                throw new KeyNotFoundException($"No se encontró una reserva con el ID {id}.");
-            }
-
-            
-            return true;
+            return await _reservaRepository.ObtenerReservaPorId(id);
         }
+
+        public async Task<bool> EliminarReserva(int Id)
+        {
+            return await _reservaRepository.EliminarReserva(Id);
+        }       
     }
 }

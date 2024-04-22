@@ -76,18 +76,25 @@ namespace AMV_Travel_Presentation.Controllers
         {
             try
             {
-                var success = await _reservasService.EliminarReserva(id);
-                if (!success)
+                var reserva = await _reservasService.ObtenerReservaPorId(id);
+                if (reserva == null)
                 {
-                    return NotFound($"No se encontró una reserva con ID {id} para eliminar.");
+                    return NotFound(new { message = "Rreserva no encontrada." });
                 }
-                return NoContent();  
+
+                bool eliminado = await _reservasService.EliminarReserva(id);
+                if (eliminado)
+                {
+                    return Ok(new { message = "Rreserva eliminada exitosamente." });
+                }
+                return BadRequest("No se pudo eliminar la reserva.");
             }
             catch (Exception ex)
             {
-                return StatusCode(500, "Internal Server Error: " + ex.Message);
+                return StatusCode(500, $"Error interno del servidor: {ex.Message}");
             }
         }
 
     }
 }
+

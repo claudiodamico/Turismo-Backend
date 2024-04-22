@@ -4531,11 +4531,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Presentation\\AMV Travel-Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Presentation\\AMV Travel-Presentation.csproj",
       "projectName": "AMV Travel-Presentation",
-      "projectPath": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Presentation\\AMV Travel-Presentation.csproj",
+      "projectPath": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Presentation\\AMV Travel-Presentation.csproj",
       "packagesPath": "C:\\Users\\Claudio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Presentation\\obj\\",
+      "outputPath": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4557,11 +4557,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-AccessData\\AMV Travel-AccessData.csproj": {
-              "projectPath": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-AccessData\\AMV Travel-AccessData.csproj"
+            "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-AccessData\\AMV Travel-AccessData.csproj": {
+              "projectPath": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-AccessData\\AMV Travel-AccessData.csproj"
             },
-            "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Application\\AMV Travel-Application.csproj": {
-              "projectPath": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Application\\AMV Travel-Application.csproj"
+            "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Application\\AMV Travel-Application.csproj": {
+              "projectPath": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Application\\AMV Travel-Application.csproj"
             }
           }
         }

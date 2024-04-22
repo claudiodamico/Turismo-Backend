@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Presentation\\",
+  "WorkspaceRootPath": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Presentation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66FA01BF-E7FF-40DD-A2DF-4D0CD04EDFB5}|AMV Travel-Presentation.csproj|c:\\users\\claudio\\documents\\amv travel\\amv travel-presentation\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66FA01BF-E7FF-40DD-A2DF-4D0CD04EDFB5}|AMV Travel-Presentation.csproj|c:\\users\\claudio\\documents\\amv travel backend\\amv travel-presentation\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66FA01BF-E7FF-40DD-A2DF-4D0CD04EDFB5}|AMV Travel-Presentation.csproj|solutionrelative:controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FA01BF-E7FF-40DD-A2DF-4D0CD04EDFB5}|AMV Travel-Presentation.csproj|C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Presentation\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FA01BF-E7FF-40DD-A2DF-4D0CD04EDFB5}|AMV Travel-Presentation.csproj|solutionrelative:controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FA01BF-E7FF-40DD-A2DF-4D0CD04EDFB5}|AMV Travel-Presentation.csproj|c:\\users\\claudio\\documents\\amv travel backend\\amv travel-presentation\\controllers\\tourcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FA01BF-E7FF-40DD-A2DF-4D0CD04EDFB5}|AMV Travel-Presentation.csproj|solutionrelative:controllers\\tourcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB6DB50-0E8C-4D9D-97C2-790CB56F0C97}|..\\AMV Travel-AccessData\\AMV Travel-AccessData.csproj|c:\\users\\claudio\\documents\\amv travel backend\\amv travel-accessdata\\queries\\reservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F77C0C2-CC16-4EEB-9A28-F8704B357FB2}|..\\AMV Travel-Domain\\AMV Travel-Domain.csproj|c:\\users\\claudio\\documents\\amv travel backend\\amv travel-domain\\commands\\ireservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4039803-BEB2-4D88-BE4F-295B7BDB15F0}|..\\AMV Travel-Application\\AMV Travel-Application.csproj|c:\\users\\claudio\\documents\\amv travel backend\\amv travel-application\\services\\reservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4039803-BEB2-4D88-BE4F-295B7BDB15F0}|..\\AMV Travel-Application\\AMV Travel-Application.csproj|c:\\users\\claudio\\documents\\amv travel backend\\amv travel-application\\services\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +40,91 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CuentasController.cs",
-              "DocumentMoniker": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Presentation\\Controllers\\CuentasController.cs",
+              "DocumentMoniker": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Presentation\\Controllers\\CuentasController.cs",
               "RelativeDocumentMoniker": "Controllers\\CuentasController.cs",
-              "ToolTip": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Presentation\\Controllers\\CuentasController.cs",
+              "ToolTip": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Presentation\\Controllers\\CuentasController.cs",
               "RelativeToolTip": "Controllers\\CuentasController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAApwC8AAAAWAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAMwDgAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T21:19:52.827Z",
+              "WhenOpened": "2024-04-22T14:17:36.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-AccessData\\Queries\\ReservaRepository.cs",
+              "RelativeDocumentMoniker": "..\\AMV Travel-AccessData\\Queries\\ReservaRepository.cs",
+              "ToolTip": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-AccessData\\Queries\\ReservaRepository.cs",
+              "RelativeToolTip": "..\\AMV Travel-AccessData\\Queries\\ReservaRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwC8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:56:22.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IReservaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Domain\\Commands\\IReservaRepository.cs",
+              "RelativeDocumentMoniker": "..\\AMV Travel-Domain\\Commands\\IReservaRepository.cs",
+              "ToolTip": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Domain\\Commands\\IReservaRepository.cs",
+              "RelativeToolTip": "..\\AMV Travel-Domain\\Commands\\IReservaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:56:16.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservaService.cs",
+              "DocumentMoniker": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Application\\Services\\ReservaService.cs",
+              "RelativeDocumentMoniker": "..\\AMV Travel-Application\\Services\\ReservaService.cs",
+              "ToolTip": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Application\\Services\\ReservaService.cs",
+              "RelativeToolTip": "..\\AMV Travel-Application\\Services\\ReservaService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA4wDcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:40:13.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TourService.cs",
+              "DocumentMoniker": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Application\\Services\\TourService.cs",
+              "RelativeDocumentMoniker": "..\\AMV Travel-Application\\Services\\TourService.cs",
+              "ToolTip": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Application\\Services\\TourService.cs",
+              "RelativeToolTip": "..\\AMV Travel-Application\\Services\\TourService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:40:09.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Presentation\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Presentation\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "Controllers\\ReservaController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwFcAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:56:50.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TourController.cs",
+              "DocumentMoniker": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Presentation\\Controllers\\TourController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TourController.cs",
+              "ToolTip": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Presentation\\Controllers\\TourController.cs",
+              "RelativeToolTip": "Controllers\\TourController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:28:15.292Z",
               "EditorCaption": ""
             }
           ]

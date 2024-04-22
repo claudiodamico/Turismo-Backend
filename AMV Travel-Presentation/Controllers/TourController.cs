@@ -66,5 +66,33 @@ namespace AMV_Travel_Presentation.Controllers
                 return StatusCode(500, "Internal Server Error");
             }
         }
+
+        /// <summary>
+        /// Eliminar Tour por ID
+        /// </summary>
+        [HttpDelete("{Id}")]
+        public async Task<IActionResult> EliminarTour(int Id)
+        {
+            try
+            {
+                var tour = await _tourService.ObtenerTourPorId(Id);
+                if (tour == null)
+                {
+                    return NotFound(new { message = "Tour no encontrado." });
+                }
+
+                bool eliminado = await _tourService.EliminarTour(Id);
+                if (eliminado)
+                {
+                    return Ok(new { message = "Tour eliminado exitosamente." });
+                }
+                return BadRequest("No se pudo eliminar el tour.");
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Error interno del servidor: {ex.Message}");
+            }
+        }
+
     }
 }

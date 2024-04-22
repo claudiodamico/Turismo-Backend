@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K9AyT+Wr2t3gzOSIR+4oGx3Zg3sxS+92trHK+jwwl7pyAF5NIFhwz5zZl0Rsza8mG20gNYmfrkMt4h7Q/sIcew==",
+  "dgSpecHash": "WBm8LAA5Ntjecyq6qtAxRURhKtHyJLM4l2plfTdDqUfae2iPCFcr78pCe4b0RwWko+1gtKKbL4NdSYNnfVG5mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Application\\AMV Travel-Application.csproj",
+  "projectFilePath": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Application\\AMV Travel-Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Claudio\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Claudio\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

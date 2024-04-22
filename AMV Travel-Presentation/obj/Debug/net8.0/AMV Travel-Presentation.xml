@@ -39,5 +39,10 @@
             Crear Tour
             </summary>
         </member>
+        <member name="M:AMV_Travel_Presentation.Controllers.TourController.EliminarTour(System.Int32)">
+            <summary>
+            Eliminar Tour por ID
+            </summary>
+        </member>
     </members>
 </doc>

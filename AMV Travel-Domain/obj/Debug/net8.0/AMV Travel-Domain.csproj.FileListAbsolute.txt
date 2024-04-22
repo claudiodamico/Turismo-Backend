@@ -12,3 +12,18 @@ C:\Users\Claudio\Documents\AMV Travel\AMV Travel-Domain\obj\Debug\net8.0\ref\AMV
 C:\Users\Claudio\Documents\AMV Travel\AMV Travel-Domain\bin\Debug\net8.0\AMV Travel-Domain.runtimeconfig.json
 C:\Users\Claudio\Documents\AMV Travel\AMV Travel-Domain\obj\Debug\net8.0\AMV Travel-Domain.csproj.AssemblyReference.cache
 C:\Users\Claudio\Documents\AMV Travel\AMV Travel-Domain\obj\Debug\net8.0\AMV Travel-Domain.genruntimeconfig.cache
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-Domain\bin\Debug\net8.0\AMV Travel-Domain.deps.json
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-Domain\bin\Debug\net8.0\AMV Travel-Domain.runtimeconfig.json
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-Domain\bin\Debug\net8.0\AMV Travel-Domain.dll
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-Domain\bin\Debug\net8.0\AMV Travel-Domain.pdb
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-Domain\obj\Debug\net8.0\AMV Travel-Domain.csproj.AssemblyReference.cache
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-Domain\obj\Debug\net8.0\AMV Travel-Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-Domain\obj\Debug\net8.0\AMV Travel-Domain.AssemblyInfoInputs.cache
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-Domain\obj\Debug\net8.0\AMV Travel-Domain.AssemblyInfo.cs
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-Domain\obj\Debug\net8.0\AMV Travel-Domain.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-Domain\obj\Debug\net8.0\AMV Travel-Domain.sourcelink.json
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-Domain\obj\Debug\net8.0\AMV Travel-Domain.dll
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-Domain\obj\Debug\net8.0\refint\AMV Travel-Domain.dll
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-Domain\obj\Debug\net8.0\AMV Travel-Domain.pdb
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-Domain\obj\Debug\net8.0\AMV Travel-Domain.genruntimeconfig.cache
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-Domain\obj\Debug\net8.0\ref\AMV Travel-Domain.dll

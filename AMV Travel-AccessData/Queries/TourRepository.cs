@@ -29,5 +29,18 @@ namespace AMV_Travel_AccessData.Queries
             return await _context.Tours
                                  .FirstOrDefaultAsync(t => t.Id == tourId);
         }
+
+        public async Task<bool> EliminarTour(int Id)
+        {
+            var tour = await _context.Tours.FindAsync(Id);
+            if (tour == null)
+            {
+                return false;  
+            }
+
+            _context.Tours.Remove(tour);
+            await _context.SaveChangesAsync();
+            return true;  
+        }
     }
 }

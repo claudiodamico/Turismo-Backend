@@ -13,6 +13,6 @@ namespace AMV_Travel_Domain.Commands
         Task<IEnumerable<Reserva>> MostrarInformacion();
         Task<Reserva> CrearReserva(Reserva reserva);
         Task<Reserva> ObtenerReservaPorId(int id);
-        Task EliminarReserva(int id);
+        Task<bool> EliminarReserva(int id);
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AMV Travel-Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dc69afcc07af99ea2a4240f3bc178cac90f0c0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AMV Travel-Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AMV Travel-Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

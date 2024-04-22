@@ -17,3 +17,23 @@ C:\Users\Claudio\Documents\AMV Travel\AMV Travel-AccessData\obj\Debug\net8.0\AMV
 C:\Users\Claudio\Documents\AMV Travel\AMV Travel-AccessData\obj\Debug\net8.0\ref\AMV Travel-AccessData.dll
 C:\Users\Claudio\Documents\AMV Travel\AMV Travel-AccessData\bin\Debug\net8.0\AMV Travel-AccessData.runtimeconfig.json
 C:\Users\Claudio\Documents\AMV Travel\AMV Travel-AccessData\obj\Debug\net8.0\AMV Travel-AccessData.genruntimeconfig.cache
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-AccessData\bin\Debug\net8.0\AMV Travel-AccessData.deps.json
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-AccessData\bin\Debug\net8.0\AMV Travel-AccessData.runtimeconfig.json
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-AccessData\bin\Debug\net8.0\AMV Travel-AccessData.dll
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-AccessData\bin\Debug\net8.0\AMV Travel-AccessData.pdb
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-AccessData\bin\Debug\net8.0\AMV Travel-Application.dll
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-AccessData\bin\Debug\net8.0\AMV Travel-Domain.dll
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-AccessData\bin\Debug\net8.0\AMV Travel-Application.pdb
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-AccessData\bin\Debug\net8.0\AMV Travel-Domain.pdb
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-AccessData\obj\Debug\net8.0\AMV Travel-AccessData.csproj.AssemblyReference.cache
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-AccessData\obj\Debug\net8.0\AMV Travel-AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-AccessData\obj\Debug\net8.0\AMV Travel-AccessData.AssemblyInfoInputs.cache
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-AccessData\obj\Debug\net8.0\AMV Travel-AccessData.AssemblyInfo.cs
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-AccessData\obj\Debug\net8.0\AMV Travel-AccessData.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-AccessData\obj\Debug\net8.0\AMV Travel-AccessData.sourcelink.json
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-AccessData\obj\Debug\net8.0\AMV Trav.172EB7DC.Up2Date
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-AccessData\obj\Debug\net8.0\AMV Travel-AccessData.dll
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-AccessData\obj\Debug\net8.0\refint\AMV Travel-AccessData.dll
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-AccessData\obj\Debug\net8.0\AMV Travel-AccessData.pdb
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-AccessData\obj\Debug\net8.0\AMV Travel-AccessData.genruntimeconfig.cache
+C:\Users\Claudio\Documents\AMV Travel Backend\AMV Travel-AccessData\obj\Debug\net8.0\ref\AMV Travel-AccessData.dll

@@ -4395,11 +4395,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Domain\\AMV Travel-Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Domain\\AMV Travel-Domain.csproj",
       "projectName": "AMV Travel-Domain",
-      "projectPath": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Domain\\AMV Travel-Domain.csproj",
+      "projectPath": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Domain\\AMV Travel-Domain.csproj",
       "packagesPath": "C:\\Users\\Claudio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Domain\\obj\\",
+      "outputPath": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

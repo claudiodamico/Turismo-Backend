@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-AccessData\\AMV Travel-AccessData.csproj": {}
+    "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-AccessData\\AMV Travel-AccessData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-AccessData\\AMV Travel-AccessData.csproj": {
+    "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-AccessData\\AMV Travel-AccessData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-AccessData\\AMV Travel-AccessData.csproj",
+        "projectUniqueName": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-AccessData\\AMV Travel-AccessData.csproj",
         "projectName": "AMV Travel-AccessData",
-        "projectPath": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-AccessData\\AMV Travel-AccessData.csproj",
+        "projectPath": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-AccessData\\AMV Travel-AccessData.csproj",
         "packagesPath": "C:\\Users\\Claudio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-AccessData\\obj\\",
+        "outputPath": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-AccessData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Application\\AMV Travel-Application.csproj": {
-                "projectPath": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Application\\AMV Travel-Application.csproj"
+              "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Application\\AMV Travel-Application.csproj": {
+                "projectPath": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Application\\AMV Travel-Application.csproj"
               },
-              "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Domain\\AMV Travel-Domain.csproj": {
-                "projectPath": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Domain\\AMV Travel-Domain.csproj"
+              "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Domain\\AMV Travel-Domain.csproj": {
+                "projectPath": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Domain\\AMV Travel-Domain.csproj"
               }
             }
           }
@@ -110,14 +110,14 @@
         }
       }
     },
-    "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Application\\AMV Travel-Application.csproj": {
+    "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Application\\AMV Travel-Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Application\\AMV Travel-Application.csproj",
+        "projectUniqueName": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Application\\AMV Travel-Application.csproj",
         "projectName": "AMV Travel-Application",
-        "projectPath": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Application\\AMV Travel-Application.csproj",
+        "projectPath": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Application\\AMV Travel-Application.csproj",
         "packagesPath": "C:\\Users\\Claudio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Application\\obj\\",
+        "outputPath": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -139,8 +139,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Domain\\AMV Travel-Domain.csproj": {
-                "projectPath": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Domain\\AMV Travel-Domain.csproj"
+              "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Domain\\AMV Travel-Domain.csproj": {
+                "projectPath": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Domain\\AMV Travel-Domain.csproj"
               }
             }
           }
@@ -213,14 +213,14 @@
         }
       }
     },
-    "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Domain\\AMV Travel-Domain.csproj": {
+    "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Domain\\AMV Travel-Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Domain\\AMV Travel-Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Domain\\AMV Travel-Domain.csproj",
         "projectName": "AMV Travel-Domain",
-        "projectPath": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Domain\\AMV Travel-Domain.csproj",
+        "projectPath": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Domain\\AMV Travel-Domain.csproj",
         "packagesPath": "C:\\Users\\Claudio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Claudio\\Documents\\AMV Travel\\AMV Travel-Domain\\obj\\",
+        "outputPath": "C:\\Users\\Claudio\\Documents\\AMV Travel Backend\\AMV Travel-Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

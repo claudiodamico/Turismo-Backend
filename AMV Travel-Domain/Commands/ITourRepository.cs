@@ -7,5 +7,6 @@ namespace AMV_Travel_Domain.Commands
         List<Tour> MostrarTours();
         void AgregarTour(Tour tour);
         Task<Tour> ObtenerTourPorId(int tourId);
+        Task<bool> EliminarTour(int Id);
     }
 }
